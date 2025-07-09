@@ -1,15 +1,7 @@
 # Weather-Checker-Website
 This study focuses on the development and assessment of a cutting-edge weather checker website designed to provide users with accurate and up-to-date meteorological information. The primary objectives are to investigate the functionality, test the reliability of data sources, analyze user interface design, and evaluate overall user experince.
-The investigation phase involves a thorough exploration of the website's features and
-capabilities. Key functionalities such as real-time weather updates, forecast accuracy, and user
-customization options will be scrutinized to ensure optimal performance.
+The investigation phase involves a thorough exploration of the website's features and capabilities. Key functionalities such as real-time weather updates, forecast accuracy, and user customization options will be scrutinized to ensure optimal performance.
 Testing will be conducted to assess the reliability of data sources integrated into the website.
-This includes evaluating the accuracy of temperature readings, precipitation forecasts, wind
-speed predictions, and other critical meteorological parameters.
-The analysis will focus on the user interface design, aiming to enhance user accessibility and
-engagement. User experience will be evaluated through the lens of intuitiveness, clarity, and
-responsiveness. The goal is to optimize the visual presentation of weather data, making it easily
-interpretable for users of varying technical expertise.
-In conclusion, this research aims to contribute to the advancement of weather checker websites
-by providing a comprehensive examination of their functionality, reliability, design, and user
-experience. The findings benefit users seeking accurate weather information.
+This includes evaluating the accuracy of temperature readings, precipitation forecasts, wind speed predictions, and other critical meteorological parameters.
+The analysis will focus on the user interface design, aiming to enhance user accessibility and engagement. User experience will be evaluated through the lens of intuitiveness, clarity, and responsiveness. The goal is to optimize the visual presentation of weather data, making it easily interpretable for users of varying technical expertise. In conclusion, this research aims to contribute to the advancement of weather checker websites by providing a comprehensive examination of their functionality, reliability, design, and user experience. The findings benefit users seeking accurate weather information.
+![image alt]https://github.com/mukundagarwal03/Weather-Checker-Website/blob/d3b29ec243974ade4ffc258ab5af6b9d17797687/Screenshot%202025-07-09%20115445.png
